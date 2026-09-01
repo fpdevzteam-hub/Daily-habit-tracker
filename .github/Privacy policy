@@ -1,0 +1,28 @@
+# Privacy Policy for Password Checker
+
+**Effective Date:** August 31, 2026  
+**App Name:** Password Strength Checker  
+**Package:** com.aistudio.passwordchecker.pwcxyz  
+**Contact Email:** fp.devzteam@gmail.com  
+
+## 1. Information Collection & Usage
+Password Checker is an on-device, client-side application. We DO NOT collect, log, transmit, or store any passwords, passphrases, or secret inputs entered into the application. All password strength evaluations, entropy calculations, and security tips are processed locally in transient device memory.
+
+## 2. Device & Diagnostic Data
+To ensure stability, prevent abuse, and optimize performance across various Android devices, standard non-identifying technical data (such as OS version, device model, and crash traces) may be processed.
+
+## 3. Advertising (Google AdMob)
+This application displays digital advertisements (banner, interstitial, rewarded, and native ads) provided by Google AdMob. AdMob may collect and process device identifiers (such as Google Advertising ID) and non-precise location data to serve and measure ads in accordance with Google’s Privacy Policy.
+
+## 4. User Consent (GDPR, CCPA & Regional Privacy Laws)
+We integrate Google's User Messaging Platform (UMP) SDK. Users in the European Economic Area (EEA), UK, Switzerland, and California can manage their personalized advertising and consent choices at any time via the in-app Consent Management settings.
+
+## 5. Analytics & Crash Reporting
+We utilize Google Firebase services (Firebase Analytics and Firebase Crashlytics) to monitor application performance and stability. No user credentials or personal information are included in diagnostic telemetry.
+
+## 6. Children's Privacy
+This application is not directed to children under 13 years of age. We do not knowingly collect personal information from children.
+
+## 7. Contact Us
+For any privacy questions or inquiries regarding this policy, please contact:  
+**Email:** fp.devz@gmail.com
